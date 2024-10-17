@@ -2,7 +2,7 @@
 <p>Final Year Data Science and Business Intelligence Engineering Student. I’m passionate about using data and advanced AI techniques to tackle real-world challenges and drive meaningful insights.</p>
 <ul>
     <li>🔭 I’m currently working on a <strong>Predictive Maintenance MLOps project</strong>.</li>
-    <li>🌱 I’m learning about <strong>Graph Neural Networks (GNNs), Retrieval-Augmented Generation (RAG), and Reinforcement Learning (RL)</strong>.</li>
+    <li>🌱 I’m learning about <strong>Reinforcement Learning (RL), Retrieval-Augmented Generation (RAG), and Graph Neural Networks (GNNs)</strong>.</li>
     <li>📫 How to reach me: <strong><a href="mailto:yessminebensessi17@gmail.com">yessminebensessi17@gmail.com</a></strong></li>
     <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/yessmine-ben-sessi" target="_blank">LinkedIn Profile</a></li>
 </ul>
