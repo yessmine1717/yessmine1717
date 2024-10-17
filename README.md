@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yessmine</h1>
-<h3 align="center">
-   I’m a Final Year Data Science and Business Intelligence Engineering Student, passionate about using data to solve real-world problems. I love applying advanced AI techniques to gain insights and support decision-making.
-</h3>
-
+Final Year Data Science and Business Intelligence Engineering Student. I’m passionate about using data and advanced AI techniques to tackle real-world challenges and drive meaningful insights.
 - 🔭 I’m currently working on a **Predictive Maintenance MLOps project**.
 - 🌱 I’m learning about **Graph Neural Networks (GNNs), Retrieval-Augmented Generation (RAG), and Reinforcement Learning (RL)**.
 
